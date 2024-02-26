@@ -23,7 +23,7 @@ div div input[type=text] {
     height: 50px;
     padding: 10px;
     font-size: 17px;
-    border: 1px solid grey;
+    border: 1px solid rgb(240, 219, 219);
     background: #f1f1f1;
 }
   
