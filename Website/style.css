@@ -9,24 +9,24 @@ body{
     background-color: rgb(15, 32, 68);
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items:center;
     min-height: 100vh;
     overflow: hidden;
 }
 
 .logo{
     position: fixed;
-    top: -80px;
-    left: -45px;
+    top: -10%;
+    left: 0;
     height: 300px;
     width: 300px;
 }
 
 .searchbar{
-    margin: auto;
-    right: -550px;
     margin-top: 2%;
-    position: relative;
+    top: 0;
+    right: 0;
+    position: fixed;
     width: 300px;
     height: 38px;
 }
